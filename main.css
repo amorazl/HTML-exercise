@@ -5,6 +5,7 @@
 body {
   margin: 10px;
   padding: 0px;
+  overflow-x: hidden;
 }
 .navbar {
   padding: 5px;
